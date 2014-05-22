@@ -6,3 +6,9 @@
 #
 # Pods/
 
+# Build and Release Folders
+bin/
+Export/
+
+# Other files and folders
+.DS_Store
